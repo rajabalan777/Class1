@@ -1,5 +1,5 @@
 # Project Title : HAND CRICKET
-### Batch NO :17
+### Batch NO :16
 ### Mentor Name :Nandhakumar
 ### Github Link :https://github.com/rajabalan777/Class1/blob/master/KyG.md 
 ### Team Details :
